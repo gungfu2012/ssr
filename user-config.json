@@ -10,7 +10,7 @@
     "method": "aes-256-cfb",
     "protocol": "auth_sha1_v4_compatible",
     "protocol_param": "",
-    "obfs": "http_simple",
+    "obfs": "http_simple_compatible",
     "obfs_param": "",
     "dns_ipv6": false,
     "connect_verbose_info": 0,
