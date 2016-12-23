@@ -1,7 +1,7 @@
 {
     "server": "0.0.0.0",
     "server_ipv6": "::",
-    "server_port": 8388,
+    "server_port": 80,
     "local_address": "127.0.0.1",
     "local_port": 1080,
     "password": "888888",
@@ -10,7 +10,7 @@
     "method": "aes-256-cfb",
     "protocol": "auth_sha1_v4_compatible",
     "protocol_param": "",
-    "obfs": "http_post",
+    "obfs": "http_simple",
     "obfs_param": "",
     "dns_ipv6": false,
     "connect_verbose_info": 0,
